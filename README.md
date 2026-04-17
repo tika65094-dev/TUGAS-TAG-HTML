@@ -19,7 +19,7 @@ Fungsi:
 Digunakan untuk membuat *judul dan subjudul* agar halaman lebih terstruktur dan mudah dibaca.
 Contoh:
 “Profil Saya” sebagai judul utama (h1), lalu “Pendidikan” dan “Hobi” sebagai subjudul.
-5. Fungsi:
+5. p Fungsi:
 Digunakan untuk membuat paragraf teks supaya tulisan rapi dan tidak berantakan.
 Contoh:
 Kalimat “Saya adalah siswa yang sedang belajar membuat website menggunakan HTML” ditampilkan sebagai paragraf.
